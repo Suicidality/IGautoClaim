@@ -14,7 +14,7 @@ Use this at your own descretion. I've only used this on test accounts and nothin
 <hr>
 
 Auto Claimer/Turbo Example: https://www.youtube.com/watch?v=3PpalRmkzoI&ab_channel=%F0%93%8C%B9%F0%93%82%83%F0%93%8C%BA<br>
-Swapper Example: https://www.youtube.com/watch?v=Kig-mcNS_Z0
+Swapper Example: [https://www.youtube.com/watch?v=Kig-mcNS_Z0](https://www.youtube.com/watch?v=wkvXSfpCJeU&ab_channel=%F0%93%8C%B9%F0%93%82%83%F0%93%8C%BA)
 
 Proxies are required for this to work properly. **Rotating and Residential are recommended.** <br>
 I will keep the <a target="_blank" href="https://raw.githubusercontent.com/itsunderscores/Instagram-Auto-Claimer-Swapper/main/files/proxies.txt">proxies</a> file updated with fresh proxies for those who don't have access HQ proxies.<br>
