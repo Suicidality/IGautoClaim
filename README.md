@@ -13,7 +13,7 @@ Use this at your own descretion. I've only used this on test accounts and nothin
 
 <hr>
 
-Auto Claimer/Turbo Example: https://youtu.be/fjr4wn9BY7k<br>
+Auto Claimer/Turbo Example: https://www.youtube.com/watch?v=3PpalRmkzoI&ab_channel=%F0%93%8C%B9%F0%93%82%83%F0%93%8C%BA<br>
 Swapper Example: https://www.youtube.com/watch?v=Kig-mcNS_Z0
 
 Proxies are required for this to work properly. **Rotating and Residential are recommended.** <br>
